@@ -4,6 +4,7 @@ author: Igor Lima
 date: 2023-02-23
 category: Golang
 layout: post
+output: false
 ---
 
 a one-pager to understanding pointers in Go
