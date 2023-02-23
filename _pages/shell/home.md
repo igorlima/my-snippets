@@ -11,14 +11,12 @@ layout: post
 setting variables
 ```sh
 TEST_VAR='Hello World!'
-
 export TEST_VAR='Hello World!'
 ```
 
 accessing variable
 ```sh
 echo $TEST_VAR
-
 # if the variable is not specified, we can use the default value.
 echo ${TEST_VAR:-hello world}
 ```
