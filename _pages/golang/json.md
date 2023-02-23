@@ -1,5 +1,5 @@
 ---
-title: Design Draft
+title: Golang JSON
 author: Igor Lima
 date: 2023-02-23
 category: Golang
