@@ -1,4 +1,10 @@
-
+---
+title: Design Draft
+author: Igor Lima
+date: 2023-02-23
+category: Golang
+layout: post
+---
 
 Pretty Printing JSON Structs in Go
 
