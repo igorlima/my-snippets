@@ -5,6 +5,7 @@ date: 2023-02-23
 category: Golang
 layout: post
 ---
+{:.no_toc}
 
 a one-pager to understanding pointers in Go
 
