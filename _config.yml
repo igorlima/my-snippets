@@ -56,7 +56,7 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-    - golang/pointer.md
+    - golangpointer.md
       output: false
 
 page_width: 800px
