@@ -29,9 +29,10 @@
                     {% endif %}
 
                     {% for post in reversed_posts %}
-                        <!-- <p>{{ page.hide }}</p> -->
-                        <!-- <p>{{ page.author }}</p> -->
-                        {% if page.hide %}
+                        <!-- <p>{{ post.hide }}</p> -->
+                        <!-- <p>{{ post.output }}</p> -->
+                        <!-- <p>{{ post.author }}</p> -->
+                        {% if post.hide %}
                             <!-- hidden -->
                         {% endif %}
             
